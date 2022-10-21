@@ -1,1 +1,1 @@
-console.log("Build from travis succeeded")
+console.log("Build from travis succeeded using branch")
